@@ -1,0 +1,1 @@
+java -jar target\ServiceBusTopicMessagesConsumer-0.0.1-SNAPSHOT.jar
